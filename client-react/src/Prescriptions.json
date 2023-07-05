@@ -1,0 +1,63 @@
+
+{
+    "users": [
+        {
+        
+        "user_id": "1",
+        "user_name": "Joaquim da Silva",
+        "avatar": "/assets/default_persona.jpg",
+        "qrcode": "/assets/qr-code.png",
+        "prescriptions": [
+            {
+                "id": 1, "name": "Brufen", "manufacturer": "Manufacturer 1", "price": 5.0, "availableAmount": 3, "selectedAmount": 0,  "canBeChanged": true, "generics": [
+                    
+                ]
+                },
+            {
+                "id": 4, "name": "Benuron", "manufacturer": "Manufacturer 2", "price": 8.0, "availableAmount": 3, "selectedAmount": 0, "canBeChanged": false, "generics": [
+            
+                    
+                ]
+            },
+            {
+                "id": 7, "name": "Victan", "manufacturer": "Manufacturer 3", "price": 7.0, "availableAmount": 3, "selectedAmount": 0, "canBeChanged": true, "generics": [
+                   
+                ]
+            },
+            {
+                "id": 10, "name": "Ilvico", "manufacturer": "Manufacturer 4", "price": 10.0, "availableAmount": 3, "selectedAmount": 0, "canBeChanged": true, "generics": [
+                    
+                ]
+            },
+            {
+                "id": 13, "name": "Sinutab", "manufacturer": "Manufacturer 5", "price": 26.0, "availableAmount": 5, "selectedAmount": 0, "canBeChanged": true, "generics": [
+                    
+                ]
+            }
+        ]
+    },
+    {
+        
+        "user_id": "2",
+        "user_name": "Leonor Santos",
+        "avatar": "/assets/Leonor.jpg",
+        "qrcode": "/assets/qr-code.png",
+        "prescriptions": [
+            {
+                "id": 1, "name": "Brufen", "manufacturer": "Manufacturer 1", "price": 5.0, "availableAmount": 3, "selectedAmount": 0,  "canBeChanged": true, "generics": [
+                   
+                ]
+                },
+            {
+                "id": 4, "name": "Benuron", "manufacturer": "Manufacturer 2", "price": 20.0, "availableAmount": 3, "selectedAmount": 0, "canBeChanged": false, "generics": [
+            
+                    
+                ]
+            }
+           
+        ]
+    }
+
+    ]
+
+}
